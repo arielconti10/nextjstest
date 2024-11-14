@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 };
 
 const SIDEBAR_ITEMS = [
-  { name: "Conditions", icon: Zap, href: "/conditions" },
+  { name: "Conditions", icon: Zap, href: "/" },
   { name: "Audit Logs", icon: History, href: "/audit-logs" },
 ];
 
